@@ -5,11 +5,11 @@
     "name": "星穹铁道",
     "description": "崩铁主题 12 张壁纸，时钟样式可切换，息屏与亮屏的衔接经过处理，切换时不会闪烁。",
     "preview": [
-      "media/cover.png",
+      "media/cover.jpg",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/cover.jpg",
     "author": [
       {
         "name": "Hobjl",
